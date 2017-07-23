@@ -10,11 +10,13 @@ For some portfolios I've written a short blog post about them, including screen 
 
 ## Development
 * [Claudia Reynders](http://mangamaui.com/)
+* [Jacek Jeznach](https://jacekjeznach.com/)
 * [Jake Albaugh](http://jakealbaugh.com/)
 
 ## Photography
 * [Nordica Photography](http://nordicaphotography.com/)
 * [Thierry Ambraisse](http://www.hellothierry.com)
+* [Jakob de Boer](http://jakobdeboer.com/)
 
 ## Writer / Copywriter
 * [Katrine Mehl](http://www.katrinemehl.com/) (DA)
