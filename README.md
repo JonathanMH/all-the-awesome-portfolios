@@ -14,9 +14,10 @@ For some portfolios I've written a short blog post about them, including screen 
 * [Jake Albaugh](http://jakealbaugh.com/)
 
 ## Photography
+* [Jakob de Boer](http://jakobdeboer.com/)
 * [Nordica Photography](http://nordicaphotography.com/)
 * [Thierry Ambraisse](http://www.hellothierry.com)
-* [Jakob de Boer](http://jakobdeboer.com/)
+* [Mathias Sterner](http://www.mathiassterner.com/)
 
 ## Writer / Copywriter
 * [Katrine Mehl](http://www.katrinemehl.com/) (DA)
