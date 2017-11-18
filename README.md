@@ -20,4 +20,5 @@ For some portfolios I've written a short blog post about them, including screen 
 * [Mathias Sterner](http://www.mathiassterner.com/)
 
 ## Writer / Copywriter
+* [Joe Coleman](http://getcoleman.com/)
 * [Katrine Mehl](http://www.katrinemehl.com/) (DA)
