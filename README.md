@@ -7,6 +7,7 @@ Obviously that's also a matter of taste, but I figure it would probably be inter
 For some portfolios I've written a short blog post about them, including screen shots, so you can have a look at those too if you like.
 
 ## Creative Direction / Graphic Design
+* [Hannah Purmort](http://hannahpurmort.com)
 * [Rezo Zero](https://www.rezo-zero.com)
 * [Yul Moreau](http://y78.fr/)
 
