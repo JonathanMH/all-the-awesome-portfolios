@@ -23,10 +23,11 @@ For some portfolios I've written a short blog post about them, including screen 
 ## Photography
 
 - [Jakob de Boer](http://jakobdeboer.com/)
+- [KNW Photo](https://www.knw.io)
+- [Mathias Sterner](http://www.mathiassterner.com/)
 - [Nordica Photography](http://nordicaphotography.com/)
 - [Thierry Ambraisse](http://www.hellothierry.com)
-- [Mathias Sterner](http://www.mathiassterner.com/)
-- [KNW Photo](https://www.knw.io)
+- [Thomas Ciszewski](http://thomas-ciszewski-photography.com)
 
 ## Writer / Copywriter
 
