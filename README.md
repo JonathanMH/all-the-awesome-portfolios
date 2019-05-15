@@ -8,10 +8,11 @@ For some portfolios I've written a short blog post about them, including screen 
 
 ## Creative Direction / Graphic Design / UI / UX
 
+- [Etcetera Design](https://etcetera.design/)
 - [Hannah Purmort](http://hannahpurmort.com)
+- [Kadir Inan](https://uix.me/)
 - [Rezo Zero](https://www.rezo-zero.com)
 - [Yul Moreau](http://y78.fr/)
-- [Kadir Inan](https://uix.me/)
 
 ## Development
 
