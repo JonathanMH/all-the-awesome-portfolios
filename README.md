@@ -6,23 +6,28 @@ Obviously that's also a matter of taste, but I figure it would probably be inter
 
 For some portfolios I've written a short blog post about them, including screen shots, so you can have a look at those too if you like.
 
-## Creative Direction / Graphic Design
-* [Hannah Purmort](http://hannahpurmort.com)
-* [Rezo Zero](https://www.rezo-zero.com)
-* [Yul Moreau](http://y78.fr/)
+## Creative Direction / Graphic Design / UI / UX
+
+- [Hannah Purmort](http://hannahpurmort.com)
+- [Rezo Zero](https://www.rezo-zero.com)
+- [Yul Moreau](http://y78.fr/)
+- [Kadir Inan](https://uix.me/)
 
 ## Development
-* [Claudia Reynders](http://mangamaui.com/)
-* [Jacek Jeznach](https://jacekjeznach.com/)
-* [Jake Albaugh](http://jakealbaugh.com/)
+
+- [Claudia Reynders](http://mangamaui.com/)
+- [Jacek Jeznach](https://jacekjeznach.com/)
+- [Jake Albaugh](http://jakealbaugh.com/)
 
 ## Photography
-* [Jakob de Boer](http://jakobdeboer.com/)
-* [Nordica Photography](http://nordicaphotography.com/)
-* [Thierry Ambraisse](http://www.hellothierry.com)
-* [Mathias Sterner](http://www.mathiassterner.com/)
-* [KNW Photo](https://www.knw.io)
+
+- [Jakob de Boer](http://jakobdeboer.com/)
+- [Nordica Photography](http://nordicaphotography.com/)
+- [Thierry Ambraisse](http://www.hellothierry.com)
+- [Mathias Sterner](http://www.mathiassterner.com/)
+- [KNW Photo](https://www.knw.io)
 
 ## Writer / Copywriter
-* [Joe Coleman](http://getcoleman.com/)
-* [Katrine Mehl](http://www.katrinemehl.com/) (DA)
+
+- [Joe Coleman](http://getcoleman.com/)
+- [Katrine Mehl](http://www.katrinemehl.com/) (DA)
