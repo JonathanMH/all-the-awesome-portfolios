@@ -16,7 +16,6 @@ For some portfolios I've written a short blog post about them, including screen 
 
 ## Development
 
-- [Claudia Reynders](http://mangamaui.com/)
 - [Jacek Jeznach](https://jacekjeznach.com/)
 - [Jake Albaugh](http://jakealbaugh.com/)
 
