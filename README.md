@@ -18,6 +18,7 @@ For some portfolios I've written a short blog post about them, including screen 
 
 - [Jacek Jeznach](https://jacekjeznach.com/)
 - [Jake Albaugh](http://jakealbaugh.com/)
+- [Parish Khan](https://parish.cv/)
 
 ## Photography
 
