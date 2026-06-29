@@ -16,6 +16,7 @@ For some portfolios I've written a short blog post about them, including screen 
 
 ## Development
 
+- [Aanand Madhav](https://aanandmadhav.com/)
 - [Jacek Jeznach](https://jacekjeznach.com/)
 - [Jake Albaugh](http://jakealbaugh.com/)
 
