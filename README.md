@@ -15,6 +15,7 @@ For some portfolios I've written a short blog post about them, including screen 
 - [Yul Moreau](http://y78.fr/)
 
 ## Development
+- [Yorben Vandersleyen](https://yorben.me/#needle) - Minimalist portfolio showcasing native macOS creations like Tape and Needle.
 
 - [Jacek Jeznach](https://jacekjeznach.com/)
 - [Jake Albaugh](http://jakealbaugh.com/)
